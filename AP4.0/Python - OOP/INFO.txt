@@ -1,0 +1,42 @@
+=============================================================================
+<>>>>>>>>>>>>>>>>>>>   Argentina Programa 4.0 // UNSL   <<<<<<<<<<<<<<<<<<<<>
+<>>>>>>>>>>>>>>>>>>>       Desarrollador Python         <<<<<<<<<<<<<<<<<<<<>
+=============================================================================
+----
+Fecha:   10 Octubre, 2023
+
+Alumno:  Walter S. Vdovichenko
+Curso:   PM-A1 
+Entrega: Trabajo de Maquina - Proyecto Final 2da Fase
+----
+=============================================================================
+----
+Plataforma Utilizada: Windows 10
+Herramienta de Desarrollo: Visual Studio Code
+			   Python 3.11.3 [MSC v.1934 64 bit (AMD64)] on win32
+
+Se entrega archivo "Vdovichenko_Walter.zip" el cual contiene:
+
+	--Carpeta Principal > INFO.txt 
+		  			    > PP_Ejecutar.py
+	--SubCarpetas: 
+	  		   - ABMs   > ABM.py					> Consulta_Pantalla.py
+		  			    > ABMInscripciones.py		> Consultas_Filtro.py
+					    > ABMNotas.py 				> Consultas_Menu.py
+				  	    > dniOK.py					> Consultas_Varias.py
+			    		> FechaOK.py				> Menu_Profesores.py
+					    > Menu_Encargados.py
+			   --------------------------------------------------------------	
+			   - Clases > Encargados.py				> Inscriptos.py
+			 		    > Profesores.py				> Personas.py           
+			   --------------------------------------------------------------	
+			   - Login  > Clear.py					> Validacion.py
+				  	    > Login_E.py				> Menu_Inicio.py
+					    > Login_P.py
+			   --------------------------------------------------------------				    		 		        
+			   - TXTs   > CargaTXTs.py				> profesores.txt
+				  	    > encargados.txt			> inscripciones.txt
+						
+=============================================================================
+					    
+					    

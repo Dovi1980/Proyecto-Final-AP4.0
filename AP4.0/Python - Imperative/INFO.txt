@@ -1,0 +1,27 @@
+
+---- Argentina Programa 4.0 // UNSL
+
+Fecha:08 Agosto, 2023
+
+Alumno: Walter S. Vdovichenko
+Curso: DPA2 
+Entrega: Trabajo de Maquina - Proyecto Final 1ra Fase
+
+----
+
+Plataforma Utilizada: Windows 10
+Herramienta de Desarrollo: Python Idle - Python 3.11.3 [MSC v.1934 64 bit (AMD64)] on win32
+Se entrega archivo "Vdovichenko_Walter.zip" el cual contiene:
+	--Carpeta Principal > PP_Ejecutar.py
+		  	    > INFO.txt
+	  -Sub Carpeta TDAs > TDAabm.py
+		  	    > TDAEncargado.py
+			    > TDAInscriptos.py
+			    > TDAProfesor.py
+	  -Sub Carpeta ABMs > ABMInscripciones.py
+		  	    > ABMNotas.py
+			    > Menu_Inicio.py
+	  -Sub Carpeta TXTs > CargaTXTs.py
+		  	    > encargados.txt
+			    > inscripciones.txt
+			    > profesores.txt
